@@ -1,10 +1,6 @@
 # 🛡️ LitSentinel: Institutional-Grade Security & Asset Management for LitVM
 
-[![Hackathon](https://img.shields.io/badge/LitVM-Hackathon_2026-FFD700?style=for-the-badge&logo=target)](https://rpc.litvm.org)
-[![Live Site](https://img.shields.io/badge/Live-DApp-success?style=for-the-badge&logo=netlify)](https://litsentinel.netlify.app/)
-[![Network](https://img.shields.io/badge/Network-LitVM_Testnet-blueviolet?style=for-the-badge)](https://rpc.litvm.org)
-[![Tech Stack](https://img.shields.io/badge/Stack-React_|_Vite_|_Ethers.js_|_TailwindCSS-61DAFB?style=for-the-badge&logo=react)](https://github.com/crypto-sultan228/LitSentinel)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![Hackathon](https://img.shields.io/badge/LiteForge-Hackathon_2026-FFD700?style=for-the-badge&logo=target)](https://rpc.litvm.org)[![Live Site](https://img.shields.io/badge/Live-DApp-success?style=for-the-badge&logo=netlify)](https://litsentinel.netlify.app/)[![Network](https://img.shields.io/badge/Network-LitVM_Testnet-blueviolet?style=for-the-badge)](https://rpc.litvm.org)[![Tech Stack](https://img.shields.io/badge/Stack-React_%7C_Vite_%7C_Ethers.js_%7C_TailwindCSS-61DAFB?style=for-the-badge&logo=react)](https://github.com/crypto-sultan228/LitSentinel)[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 **LitSentinel** (LitScan Omni-Agent V8) is a cutting-edge Web3 security suite and asset management dashboard meticulously engineered for the **LitVM ecosystem**. It provides users with an institutional-grade interface for advanced on-chain monitoring, automated optimization, and a high-velocity emergency asset evacuation protocol, ensuring unparalleled protection and control over digital assets.
 
