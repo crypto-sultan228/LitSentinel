@@ -20,7 +20,7 @@ LitSentinel introduces a multi-layered approach to on-chain security and optimiz
 Our flagship security protocol enables instantaneous sweeping of all native funds to a pre-designated safe address in the event of a wallet compromise. This feature is designed for rapid response and maximum asset protection.
 
 -   **Precision Gas Deduction:** Automatically calculates the exact maximum transferable amount after accounting for gas fees, ensuring a 100% success rate for emergency transfers.
--   **High-Priority Execution:** Utilizes a custom gas buffer to prioritize transactions, ensuring immediate inclusion in the next available block on the LitVM network.
+-   **High-Priority Execution: Utilizes a 30% gas buffer to prioritize transactions, ensuring immediate inclusion in the next available block on the LitVM network.
 
 ### 2. 📈 Pre-Connection Market Intelligence
 LitSentinel provides critical market data and network insights **before** wallet connection, empowering users with informed decision-making.
@@ -109,7 +109,7 @@ Follow these instructions to set up LitSentinel locally for development and test
 
 ---
 
-## 💎 The LitSentinel Edge: Redefining Security & Intelligence on LitVM
+## 	⚡ Why LitSentinel? Setting the New Benchmark for LitVM Security
 
 LitSentinel stands out as a premier submission for the LitVM Hackathon 2026 due to its comprehensive approach to security and user experience:
 
