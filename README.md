@@ -109,7 +109,7 @@ Follow these instructions to set up LitSentinel locally for development and test
 
 ---
 
-## 	⚡ Why LitSentinel? Setting the New Benchmark for LitVM Security
+## 	🔭 Vision Meets Velocity: The Strategic Case for LitSentinel
 
 LitSentinel stands out as a premier submission for the LitVM Hackathon 2026 due to its comprehensive approach to security and user experience:
 
